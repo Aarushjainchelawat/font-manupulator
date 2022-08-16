@@ -1,0 +1,45 @@
+.heading
+{
+    font-size: 25px;
+    width: 100%;
+    margin: 0;
+    box-shadow: 5px 5px 5px grey;
+    font-style:italic;
+}
+
+.NOTE
+{
+    font-size: 17px;
+    color: black;
+    font-weight:500;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    color:yellow;
+    background-color: purple;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    border-width :2px;
+    border-color: yellow;
+    border-radius: 10px;
+    font-style: italic;
+}
+
+canvas
+{
+    border: 5px solid  #4f4e4d;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+
+#footer
+{
+    border-width :2px;
+    border-color: yellow;
+    border-radius: 10px;
+}
